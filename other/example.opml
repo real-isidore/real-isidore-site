@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>feedolin</title>
+    </head>
+    <body>
+
+        <outline text="News" title="News">
+            <outline type="rss" text="The Onion" title="The Onion" xmlUrl="https://theonion.com/rss" htmlUrl=""/>
+        </outline>
+
+
+        <outline text="News" title="News">
+            <outline type="rss" text="MacRumors" title="MacRumors" xmlUrl="https://macrumors.com/macrumors.xml" htmlUrl=""/>
+        </outline>
+
+
+
+    </body>
+</opml>
